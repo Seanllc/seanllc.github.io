@@ -63,7 +63,6 @@ background-color: #999999;
   background-size: cover;
   background-image:url(../img/sky.jpg);
   margin-bottom: 20px;
-}
 
 }
 #banner-home h1{
@@ -106,7 +105,8 @@ padding: 90px 0px;
 
 /* ABOUT STYLES*/
 #about{
-border-style: groove;
+background-image:url(../img/usa.jpg);
+border: 2px dotted #333;
 padding: 10px;
 border-radius: 4px;
 }
